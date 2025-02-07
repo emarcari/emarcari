@@ -5,8 +5,9 @@
 I'm a *Data* and *Software Engineer* with experience in **Earth Science Data Handling**, **Satellite Data Manipulation**, **Non-structured Data Processing** and more...
 Since 10, I'm trying to understand how to improve my coding style. Sometimes it works well, sometimes is better than expected! 
 
-Oh, from a period in the Past, I worked as an **Earth Engine Specialist**, and I had the chance to present my work at the Google's California Head Quarter!
-And, after that, I worked on Satellite Data processing, since the raw ingestion to image delivering in a Public Service in Brazil.
+Sometime in the Past, I worked as an **Earth Engine Specialist**, and I had the chance to present my work about deforestation detection at the Google's California Head Quarter!
+
+And, after that, I worked on Satellite Data processing, from the raw ingestion to image delivering in a Public Service in Brazil.
 
 - 🌱 Currently learning: **Rust, Python and Data Engineering**
 - 🔭 Working on: **Internal Data Manipulation projects at Terramagna**
