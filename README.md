@@ -13,4 +13,4 @@ And, after that, I worked on Satellite Data processing, from the raw ingestion t
 - 🔭 Working on: **Internal Data Manipulation projects at Terramagna**
 - 🌍 Languages: **English, Portuguese (native), Python, Javascript, C++ (not usually), and getting started in Rust**
 - 📫 How to reach me: **emarcari@gmail.com**
-- ⚡ Fun fact: **[My hair is quite white**
+- ⚡ Fun fact: **My hair is quite white**
